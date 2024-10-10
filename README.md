@@ -1,2 +1,1 @@
-# DistributedAI
-"# DistributedAI" 
+# Distributed Application Exercises
